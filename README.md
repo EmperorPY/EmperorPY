@@ -36,7 +36,7 @@ Advanced Python • Working with APIs • Bigger projects • More complex progr
 
 ## GitHub and more
 
-[github.com/quietdevx](https://github.com/quietdevx)
+[github.com/quietdevx](https://github.com/EmperorPY)
 
 Email: [marsala.pino1@gmail.com](mailto:marsala.pino1@gmail.com)
 Email 2: [marsala.pino22@gmail.com](mailto:marsala.pino22@gmail.com)
