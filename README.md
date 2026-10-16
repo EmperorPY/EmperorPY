@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=215333&height=200&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=250&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
 
 ## Hello, I'm Pino
 
