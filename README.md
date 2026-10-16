@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=335333&height=200&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
 
 ## Hello, I'm Pino
 
@@ -16,7 +16,7 @@
 
  Learning Python•
  Building projects•
- Working with Tkinter•
+ Working with  Custom-Tkinter•
  Working with APIs•
  Looking for work experience
 
@@ -24,13 +24,13 @@
 
 ## Skills
 
-Python • Tkinter • APIs 
+Python • Custom-Tkinter + Tkinter • APIs   
 
 ---
 
 ## Currently Learning
 
-Advanced Python • Working with APIs • Bigger projects • More complex programming concepts
+Advanced Python • SQLite • Bigger projects • More complex programming concepts • OS and file implementation.
 
 ---
 
