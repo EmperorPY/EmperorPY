@@ -14,23 +14,24 @@
 
 ## About Me
 
- Learning Python•
+ Learning Python Libraries•
  Building projects•
  Working with  Custom-Tkinter•
  Working with APIs•
+ Transitioning to JavaScript!•
  Looking for work experience
 
 ---
 
 ## Skills
 
-Python • Custom-Tkinter + Tkinter • APIs   
+Python • GUIs • APIs • Encryption
 
 ---
 
 ## Currently Learning
 
-Advanced Python • SQLite • Bigger projects • More complex programming concepts • OS and file implementation.
+Advanced Python • SQLite • Bigger projects • More Libraries - Fernet.
 
 ---
 
