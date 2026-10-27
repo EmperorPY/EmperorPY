@@ -18,7 +18,8 @@
  Building projects•
  Working with  Custom-Tkinter•
  Working with APIs•
- Transitioning to JavaScript!•
+ Transitioning to automating tasks and solving problems•
+ New language soon?•
  Looking for work experience
 
 ---
