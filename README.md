@@ -26,13 +26,13 @@
 
 ## Skills
 
-Python • GUIs • APIs • Encryption
+Python • GUIs • APIs • Encryption • Saving data to files to act like data bases (Json)
 
 ---
 
 ## Currently Learning
 
-Advanced Python • SQLite • Bigger projects • More Libraries - Fernet.
+Advanced Python •  Bigger projects • More Libraries 
 
 ---
 
