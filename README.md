@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=250&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
+<img src="https://vercel.app" />
 
 ## Hello, I'm Pino
 
@@ -10,35 +10,42 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## About Me
 
-I like to ride bikes, yes i can wheelie.
-I am bilingual
-Favourite games are titanfall 2 minecraft and descenders
-Looking for work experience January 2027
-Goal is to make my own small ai chatbot with pytorch
-New language soon
+<div align="left">
+
+I like to ride bikes, and yes, I can wheelie.
+I am bilingual.
+My favourite games are Titanfall 2, Minecraft, and Descenders.
+Looking for work experience in January 2027.
+My goal is to make my own small AI chatbot with PyTorch.
+Learning a new language soon!
+
+</div>
+
+</div>
 
 ---
 
+<div align="center">
+  
 ## Skills
 
 Python • GUIs • APIs • Encryption • Saving data
----
+
 
 ## Currently Learning
 
-Advanced Python •  Bigger projects • More Libraries 
+Advanced Python • Bigger projects • More Libraries • Useful projects
 
 ---
 
 ## GitHub and more
-```
-[github.com/EmperorPY](https://github.com/EmperorPY)
-```
-Email: [marsala.pino1@gmail.com](mailto:marsala.pino1@gmail.com)
+
+GitHub: [://github.com](https://://github.com)  
+Email: [marsala.pino1@gmail.com](mailto:marsala.pino1@gmail.com)  
 Email 2: [marsala.pino22@gmail.com](mailto:marsala.pino22@gmail.com)
 
 ---
