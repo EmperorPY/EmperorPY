@@ -4,7 +4,7 @@
 
 ## Hello, I'm Pino
 
-> Developer in progress.
+> Upcoming Developer.
 
 </div>
 
@@ -14,20 +14,18 @@
 
 ## About Me
 
- Learning Python Libraries•
- Building projects•
- Working with  Custom-Tkinter•
- Working with APIs•
- Transitioning to automating tasks and solving problems•
- New language soon?•
- Looking for work experience
+I like to ride bikes, yes i can wheelie.
+I am bilingual
+Favourite games are titanfall 2 minecraft and descenders
+Looking for work experience January 2027
+Goal is to make my own small ai chatbot with pytorch
+New language soon
 
 ---
 
 ## Skills
 
-Python • GUIs • APIs • Encryption • Saving data to files to act like data bases (Json)
-
+Python • GUIs • APIs • Encryption • Saving data
 ---
 
 ## Currently Learning
@@ -37,9 +35,9 @@ Advanced Python •  Bigger projects • More Libraries
 ---
 
 ## GitHub and more
-
+```
 [github.com/EmperorPY](https://github.com/EmperorPY)
-
+```
 Email: [marsala.pino1@gmail.com](mailto:marsala.pino1@gmail.com)
 Email 2: [marsala.pino22@gmail.com](mailto:marsala.pino22@gmail.com)
 
