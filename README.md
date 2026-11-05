@@ -44,7 +44,7 @@ Advanced Python • Bigger projects • More Libraries • Useful projects
 
 ## GitHub and more
 
-GitHub: [://github.com](https://://github.com)  
+GitHub: [://github.com](https://://github.com\EmperorPY)  
 Email: [marsala.pino1@gmail.com](mailto:marsala.pino1@gmail.com)  
 Email 2: [marsala.pino22@gmail.com](mailto:marsala.pino22@gmail.com)
 
