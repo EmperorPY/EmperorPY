@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vercel.app" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=200&section=header&text=EmperorPY&fontSize=70&fontColor=ffffff" />
 
 ## Hello, I'm Pino
 
@@ -30,7 +30,7 @@ Learning a new language soon!
 ---
 
 <div align="center">
-  
+
 ## Skills
 
 Python • GUIs • APIs • Encryption • Saving data
