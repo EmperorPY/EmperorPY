@@ -21,7 +21,7 @@ Python • GUIs • APIs • Encryption • Saving data
 Make a small neural link in pytorch and turn it into a chatbot.
 20 followers.
 Dream is to go into back end or game development.
-Go to a good university
+Go to a good university.
 Mojang can i have an internship🙏
 
 
