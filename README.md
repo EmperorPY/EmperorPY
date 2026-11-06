@@ -12,16 +12,23 @@
 
 <div align="center">
 
-## About Me
+## Skills
 
-<div align="left">
+Python • GUIs • APIs • Encryption • Saving data 
 
-I like to ride bikes, and yes, I can wheelie.
-I am bilingual.
-My favourite games are Titanfall 2, Minecraft, and Descenders.
-Looking for work experience in January 2027.
-My goal is to make my own small AI chatbot with PyTorch.
-Learning a new language soon!
+## Goals
+
+Make a small neural link in pytorch and turn it into a chatbot.
+20 followers.
+Dream is to go into back end or game development.
+Go to a good university
+Mojang can i have an internship🙏
+
+
+
+<div align="center">
+
+
 
 </div>
 
@@ -31,14 +38,9 @@ Learning a new language soon!
 
 <div align="center">
 
-## Skills
-
-Python • GUIs • APIs • Encryption • Saving data
-
-
 ## Currently Learning
 
-Advanced Python • Bigger projects • More Libraries • Useful projects
+Advanced Python • Bigger projects • More Libraries • Useful projects • Pytorch on the side
 
 ---
 
